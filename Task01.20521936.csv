@@ -3,7 +3,7 @@ date,location,number,time
 2021-01-06,Bắc Ninh,13,Tối
 2021-01-06,Đà Nẵng,2,Tối
 2021-01-06,Lạng Sơn,1,Tối
-2021-01-06,Bệnh viện K cơ sở Tân Triều,2,Tối
+2021-01-06,Hà Nội,2,Tối
 2021-01-06,Bắc Giang,45,Tối
 2021-01-06,Hưng Yên,2,Tối
 2021-01-06,Hải Dương,1,Tối
@@ -17,7 +17,7 @@ date,location,number,time
 2021-01-06,Bắc Ninh,13,Trưa
 2021-01-06,Đà Nẵng,2,Trưa
 2021-01-06,Lạng Sơn,1,Trưa
-2021-01-06,Bệnh viện K cơ sở Tân Triều,2,Trưa
+2021-01-06,Hà Nội,2,Trưa
 2021-01-06,Bắc Giang,45,Trưa
 2021-01-06,Hưng Yên,2,Trưa
 2021-01-06,Hải Dương,1,Trưa
@@ -31,7 +31,7 @@ date,location,number,time
 2021-01-06,Bắc Ninh,13,Sáng
 2021-01-06,Đà Nẵng,2,Sáng
 2021-01-06,Lạng Sơn,1,Sáng
-2021-01-06,Bệnh viện K cơ sở Tân Triều,2,Sáng
+2021-01-06,Hà Nội,2,Sáng
 2021-01-06,Bắc Giang,45,Sáng
 2021-01-06,Hưng Yên,2,Sáng
 2021-01-06,Hải Dương,1,Sáng
@@ -45,7 +45,7 @@ date,location,number,time
 31/05/2021,Bắc Ninh,13,Tối
 31/05/2021,Đà Nẵng,2,Tối
 31/05/2021,Lạng Sơn,1,Tối
-31/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+31/05/2021,Hà Nội,2,Tối
 31/05/2021,Bắc Giang,45,Tối
 31/05/2021,Hưng Yên,2,Tối
 31/05/2021,Hải Dương,1,Tối
@@ -59,7 +59,7 @@ date,location,number,time
 31/05/2021,Bắc Ninh,13,Sáng
 31/05/2021,Đà Nẵng,2,Sáng
 31/05/2021,Lạng Sơn,1,Sáng
-31/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+31/05/2021,Hà Nội,2,Sáng
 31/05/2021,Bắc Giang,45,Sáng
 31/05/2021,Hưng Yên,2,Sáng
 31/05/2021,Hải Dương,1,Sáng
@@ -73,7 +73,7 @@ date,location,number,time
 30/05/2021,Bắc Ninh,13,Tối
 30/05/2021,Đà Nẵng,2,Tối
 30/05/2021,Lạng Sơn,1,Tối
-30/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+30/05/2021,Hà Nội,2,Tối
 30/05/2021,Bắc Giang,45,Tối
 30/05/2021,Hưng Yên,2,Tối
 30/05/2021,Hải Dương,1,Tối
@@ -87,7 +87,7 @@ date,location,number,time
 30/05/2021,Bắc Ninh,13,Trưa
 30/05/2021,Đà Nẵng,2,Trưa
 30/05/2021,Lạng Sơn,1,Trưa
-30/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+30/05/2021,Hà Nội,2,Trưa
 30/05/2021,Bắc Giang,45,Trưa
 30/05/2021,Hưng Yên,2,Trưa
 30/05/2021,Hải Dương,1,Trưa
@@ -101,7 +101,7 @@ date,location,number,time
 30/05/2021,Bắc Ninh,13,Sáng
 30/05/2021,Đà Nẵng,2,Sáng
 30/05/2021,Lạng Sơn,1,Sáng
-30/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+30/05/2021,Hà Nội,2,Sáng
 30/05/2021,Bắc Giang,45,Sáng
 30/05/2021,Hưng Yên,2,Sáng
 30/05/2021,Hải Dương,1,Sáng
@@ -115,7 +115,7 @@ date,location,number,time
 29/05/2021,Bắc Ninh,13,Tối
 29/05/2021,Đà Nẵng,2,Tối
 29/05/2021,Lạng Sơn,1,Tối
-29/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+29/05/2021,Hà Nội,2,Tối
 29/05/2021,Bắc Giang,45,Tối
 29/05/2021,Hưng Yên,2,Tối
 29/05/2021,Hải Dương,1,Tối
@@ -129,7 +129,7 @@ date,location,number,time
 29/05/2021,Bắc Ninh,13,Trưa
 29/05/2021,Đà Nẵng,2,Trưa
 29/05/2021,Lạng Sơn,1,Trưa
-29/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+29/05/2021,Hà Nội,2,Trưa
 29/05/2021,Bắc Giang,45,Trưa
 29/05/2021,Hưng Yên,2,Trưa
 29/05/2021,Hải Dương,1,Trưa
@@ -143,7 +143,7 @@ date,location,number,time
 28/05/2021,Bắc Ninh,13,Tối
 28/05/2021,Đà Nẵng,2,Tối
 28/05/2021,Lạng Sơn,1,Tối
-28/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+28/05/2021,Hà Nội,2,Tối
 28/05/2021,Bắc Giang,45,Tối
 28/05/2021,Hưng Yên,2,Tối
 28/05/2021,Hải Dương,1,Tối
@@ -157,7 +157,7 @@ date,location,number,time
 28/05/2021,Bắc Ninh,13,Trưa
 28/05/2021,Đà Nẵng,2,Trưa
 28/05/2021,Lạng Sơn,1,Trưa
-28/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+28/05/2021,Hà Nội,2,Trưa
 28/05/2021,Bắc Giang,45,Trưa
 28/05/2021,Hưng Yên,2,Trưa
 28/05/2021,Hải Dương,1,Trưa
@@ -171,7 +171,7 @@ date,location,number,time
 28/05/2021,Bắc Ninh,13,Sáng
 28/05/2021,Đà Nẵng,2,Sáng
 28/05/2021,Lạng Sơn,1,Sáng
-28/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+28/05/2021,Hà Nội,2,Sáng
 28/05/2021,Bắc Giang,45,Sáng
 28/05/2021,Hưng Yên,2,Sáng
 28/05/2021,Hải Dương,1,Sáng
@@ -185,7 +185,7 @@ date,location,number,time
 27/05/2021,Bắc Ninh,13,Tối
 27/05/2021,Đà Nẵng,2,Tối
 27/05/2021,Lạng Sơn,1,Tối
-27/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+27/05/2021,Hà Nội,2,Tối
 27/05/2021,Bắc Giang,45,Tối
 27/05/2021,Hưng Yên,2,Tối
 27/05/2021,Hải Dương,1,Tối
@@ -199,7 +199,7 @@ date,location,number,time
 27/05/2021,Bắc Ninh,13,Trưa
 27/05/2021,Đà Nẵng,2,Trưa
 27/05/2021,Lạng Sơn,1,Trưa
-27/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+27/05/2021,Hà Nội,2,Trưa
 27/05/2021,Bắc Giang,45,Trưa
 27/05/2021,Hưng Yên,2,Trưa
 27/05/2021,Hải Dương,1,Trưa
@@ -213,7 +213,7 @@ date,location,number,time
 27/05/2021,Bắc Ninh,13,Sáng
 27/05/2021,Đà Nẵng,2,Sáng
 27/05/2021,Lạng Sơn,1,Sáng
-27/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+27/05/2021,Hà Nội,2,Sáng
 27/05/2021,Bắc Giang,45,Sáng
 27/05/2021,Hưng Yên,2,Sáng
 27/05/2021,Hải Dương,1,Sáng
@@ -227,7 +227,7 @@ date,location,number,time
 26/05/2021,Bắc Ninh,13,Tối
 26/05/2021,Đà Nẵng,2,Tối
 26/05/2021,Lạng Sơn,1,Tối
-26/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+26/05/2021,Hà Nội,2,Tối
 26/05/2021,Bắc Giang,45,Tối
 26/05/2021,Hưng Yên,2,Tối
 26/05/2021,Hải Dương,1,Tối
@@ -241,7 +241,7 @@ date,location,number,time
 26/05/2021,Bắc Ninh,13,Trưa
 26/05/2021,Đà Nẵng,2,Trưa
 26/05/2021,Lạng Sơn,1,Trưa
-26/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+26/05/2021,Hà Nội,2,Trưa
 26/05/2021,Bắc Giang,45,Trưa
 26/05/2021,Hưng Yên,2,Trưa
 26/05/2021,Hải Dương,1,Trưa
@@ -255,7 +255,7 @@ date,location,number,time
 26/05/2021,Bắc Ninh,13,Sáng
 26/05/2021,Đà Nẵng,2,Sáng
 26/05/2021,Lạng Sơn,1,Sáng
-26/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+26/05/2021,Hà Nội,2,Sáng
 26/05/2021,Bắc Giang,45,Sáng
 26/05/2021,Hưng Yên,2,Sáng
 26/05/2021,Hải Dương,1,Sáng
@@ -269,7 +269,7 @@ date,location,number,time
 25/05/2021,Bắc Ninh,13,Tối
 25/05/2021,Đà Nẵng,2,Tối
 25/05/2021,Lạng Sơn,1,Tối
-25/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+25/05/2021,Hà Nội,2,Tối
 25/05/2021,Bắc Giang,45,Tối
 25/05/2021,Hưng Yên,2,Tối
 25/05/2021,Hải Dương,1,Tối
@@ -283,7 +283,7 @@ date,location,number,time
 25/05/2021,Bắc Ninh,13,Trưa
 25/05/2021,Đà Nẵng,2,Trưa
 25/05/2021,Lạng Sơn,1,Trưa
-25/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+25/05/2021,Hà Nội,2,Trưa
 25/05/2021,Bắc Giang,45,Trưa
 25/05/2021,Hưng Yên,2,Trưa
 25/05/2021,Hải Dương,1,Trưa
@@ -297,7 +297,7 @@ date,location,number,time
 25/05/2021,Bắc Ninh,13,Sáng
 25/05/2021,Đà Nẵng,2,Sáng
 25/05/2021,Lạng Sơn,1,Sáng
-25/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+25/05/2021,Hà Nội,2,Sáng
 25/05/2021,Bắc Giang,45,Sáng
 25/05/2021,Hưng Yên,2,Sáng
 25/05/2021,Hải Dương,1,Sáng
@@ -311,7 +311,7 @@ date,location,number,time
 24/05/2021,Bắc Ninh,13,Tối
 24/05/2021,Đà Nẵng,2,Tối
 24/05/2021,Lạng Sơn,1,Tối
-24/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+24/05/2021,Hà Nội,2,Tối
 24/05/2021,Bắc Giang,45,Tối
 24/05/2021,Hưng Yên,2,Tối
 24/05/2021,Hải Dương,1,Tối
@@ -325,7 +325,7 @@ date,location,number,time
 24/05/2021,Bắc Ninh,13,Trưa
 24/05/2021,Đà Nẵng,2,Trưa
 24/05/2021,Lạng Sơn,1,Trưa
-24/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+24/05/2021,Hà Nội,2,Trưa
 24/05/2021,Bắc Giang,45,Trưa
 24/05/2021,Hưng Yên,2,Trưa
 24/05/2021,Hải Dương,1,Trưa
@@ -339,7 +339,7 @@ date,location,number,time
 24/05/2021,Bắc Ninh,13,Trưa
 24/05/2021,Đà Nẵng,2,Trưa
 24/05/2021,Lạng Sơn,1,Trưa
-24/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+24/05/2021,Hà Nội,2,Trưa
 24/05/2021,Bắc Giang,45,Trưa
 24/05/2021,Hưng Yên,2,Trưa
 24/05/2021,Hải Dương,1,Trưa
@@ -353,7 +353,7 @@ date,location,number,time
 24/05/2021,Bắc Ninh,13,Sáng
 24/05/2021,Đà Nẵng,2,Sáng
 24/05/2021,Lạng Sơn,1,Sáng
-24/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+24/05/2021,Hà Nội,2,Sáng
 24/05/2021,Bắc Giang,45,Sáng
 24/05/2021,Hưng Yên,2,Sáng
 24/05/2021,Hải Dương,1,Sáng
@@ -367,7 +367,7 @@ date,location,number,time
 23/05/2021,Bắc Ninh,13,Tối
 23/05/2021,Đà Nẵng,2,Tối
 23/05/2021,Lạng Sơn,1,Tối
-23/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+23/05/2021,Hà Nội,2,Tối
 23/05/2021,Bắc Giang,45,Tối
 23/05/2021,Hưng Yên,2,Tối
 23/05/2021,Hải Dương,1,Tối
@@ -381,7 +381,7 @@ date,location,number,time
 23/05/2021,Bắc Ninh,13,Trưa
 23/05/2021,Đà Nẵng,2,Trưa
 23/05/2021,Lạng Sơn,1,Trưa
-23/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+23/05/2021,Hà Nội,2,Trưa
 23/05/2021,Bắc Giang,45,Trưa
 23/05/2021,Hưng Yên,2,Trưa
 23/05/2021,Hải Dương,1,Trưa
@@ -395,7 +395,7 @@ date,location,number,time
 23/05/2021,Bắc Ninh,13,Sáng
 23/05/2021,Đà Nẵng,2,Sáng
 23/05/2021,Lạng Sơn,1,Sáng
-23/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+23/05/2021,Hà Nội,2,Sáng
 23/05/2021,Bắc Giang,45,Sáng
 23/05/2021,Hưng Yên,2,Sáng
 23/05/2021,Hải Dương,1,Sáng
@@ -409,7 +409,7 @@ date,location,number,time
 22/05/2021,Bắc Ninh,13,Tối
 22/05/2021,Đà Nẵng,2,Tối
 22/05/2021,Lạng Sơn,1,Tối
-22/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+22/05/2021,Hà Nội,2,Tối
 22/05/2021,Bắc Giang,45,Tối
 22/05/2021,Hưng Yên,2,Tối
 22/05/2021,Hải Dương,1,Tối
@@ -423,7 +423,7 @@ date,location,number,time
 22/05/2021,Bắc Ninh,13,Trưa
 22/05/2021,Đà Nẵng,2,Trưa
 22/05/2021,Lạng Sơn,1,Trưa
-22/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+22/05/2021,Hà Nội,2,Trưa
 22/05/2021,Bắc Giang,45,Trưa
 22/05/2021,Hưng Yên,2,Trưa
 22/05/2021,Hải Dương,1,Trưa
@@ -437,7 +437,7 @@ date,location,number,time
 22/05/2021,Bắc Ninh,13,Sáng
 22/05/2021,Đà Nẵng,2,Sáng
 22/05/2021,Lạng Sơn,1,Sáng
-22/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+22/05/2021,Hà Nội,2,Sáng
 22/05/2021,Bắc Giang,45,Sáng
 22/05/2021,Hưng Yên,2,Sáng
 22/05/2021,Hải Dương,1,Sáng
@@ -451,7 +451,7 @@ date,location,number,time
 21/05/2021,Bắc Ninh,13,Tối
 21/05/2021,Đà Nẵng,2,Tối
 21/05/2021,Lạng Sơn,1,Tối
-21/05/2021,Bệnh viện K cơ sở Tân Triều,2,Tối
+21/05/2021,Hà Nội,2,Tối
 21/05/2021,Bắc Giang,45,Tối
 21/05/2021,Hưng Yên,2,Tối
 21/05/2021,Hải Dương,1,Tối
@@ -465,7 +465,7 @@ date,location,number,time
 21/05/2021,Bắc Ninh,13,Trưa
 21/05/2021,Đà Nẵng,2,Trưa
 21/05/2021,Lạng Sơn,1,Trưa
-21/05/2021,Bệnh viện K cơ sở Tân Triều,2,Trưa
+21/05/2021,Hà Nội,2,Trưa
 21/05/2021,Bắc Giang,45,Trưa
 21/05/2021,Hưng Yên,2,Trưa
 21/05/2021,Hải Dương,1,Trưa
@@ -479,7 +479,7 @@ date,location,number,time
 21/05/2021,Bắc Ninh,13,Sáng
 21/05/2021,Đà Nẵng,2,Sáng
 21/05/2021,Lạng Sơn,1,Sáng
-21/05/2021,Bệnh viện K cơ sở Tân Triều,2,Sáng
+21/05/2021,Hà Nội,2,Sáng
 21/05/2021,Bắc Giang,45,Sáng
 21/05/2021,Hưng Yên,2,Sáng
 21/05/2021,Hải Dương,1,Sáng
@@ -495,7 +495,7 @@ date,location,number,time
 20/05/2021,Hà Nội,2,Tối
 20/05/2021,Đà Nẵng,1,Tối
 20/05/2021,Thái Nguyên,1,Tối
-20/05/2021,Bệnh viện K cơ sở Tân Triều,4,Tối
+20/05/2021,Hà Nội,4,Tối
 20/05/2021,Lạng Sơn,1,Tối
 20/05/2021,Ninh Bình,2,Tối
 20/05/2021,Thanh Hoá,1,Tối
@@ -508,7 +508,7 @@ date,location,number,time
 20/05/2021,Hà Nội,2,Trưa
 20/05/2021,Đà Nẵng,1,Trưa
 20/05/2021,Thái Nguyên,1,Trưa
-20/05/2021,Bệnh viện K cơ sở Tân Triều,4,Trưa
+20/05/2021,Hà Nội,4,Trưa
 20/05/2021,Lạng Sơn,1,Trưa
 20/05/2021,Ninh Bình,2,Trưa
 20/05/2021,Thanh Hoá,1,Trưa
@@ -521,7 +521,7 @@ date,location,number,time
 20/05/2021,Hà Nội,2,Sáng
 20/05/2021,Đà Nẵng,1,Sáng
 20/05/2021,Thái Nguyên,1,Sáng
-20/05/2021,Bệnh viện K cơ sở Tân Triều,4,Sáng
+20/05/2021,Hà Nội,4,Sáng
 20/05/2021,Lạng Sơn,1,Sáng
 20/05/2021,Ninh Bình,2,Sáng
 20/05/2021,Thanh Hoá,1,Sáng
